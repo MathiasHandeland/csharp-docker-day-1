@@ -482,11 +482,10 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-/exercise.wwwapi/appsettings.json
-/exercise.wwwapi/appsettings.Development.json
 
-/exercise.wwwapi/appsettings.json
-/exercise.wwwapi/appsettings.Development.json
+
+*/**appsettings.json
+*/**appsettings.Development.json
 */**/bin/Debug   
 */**/bin/Release   
 */**/obj/Debug   

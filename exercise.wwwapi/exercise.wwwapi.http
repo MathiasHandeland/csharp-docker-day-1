@@ -1,9 +1,0 @@
-@exercise.wwwapi_HostAddress = http://localhost:5137
-
-GET {{exercise.wwwapi_HostAddress}}/students/
-Accept: application/json
-
-###
-
-GET {{exercise.wwwapi_HostAddress}}/students/
-Accept: application/json
